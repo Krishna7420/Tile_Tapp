@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct Tile_TappApp: App {
+    
     var body: some Scene {
+        
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }

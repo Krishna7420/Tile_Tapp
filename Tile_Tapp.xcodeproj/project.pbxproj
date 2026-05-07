@@ -16,6 +16,11 @@
 			path = Tile_Tapp;
 			sourceTree = "<group>";
 		};
+		83B9AF5A2FAB10420083E4A7 /* New Folder */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "New Folder";
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +37,7 @@
 		83B9AF432FAB0F390083E4A7 = {
 			isa = PBXGroup;
 			children = (
+				83B9AF5A2FAB10420083E4A7 /* New Folder */,
 				83B9AF4E2FAB0F390083E4A7 /* Tile_Tapp */,
 				83B9AF4D2FAB0F390083E4A7 /* Products */,
 			);
@@ -62,6 +68,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				83B9AF4E2FAB0F390083E4A7 /* Tile_Tapp */,
+				83B9AF5A2FAB10420083E4A7 /* New Folder */,
 			);
 			name = Tile_Tapp;
 			packageProductDependencies = (
